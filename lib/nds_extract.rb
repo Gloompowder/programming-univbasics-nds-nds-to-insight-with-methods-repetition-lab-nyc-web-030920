@@ -26,10 +26,11 @@ end
 
 def list_of_directors(source)
   # Write this implementation
-  name_index = 0
-  while name_index < source.length do
+  pp source
+  # name_index = 0
+  # while name_index < source.length do
     
-    name_index += 1
+  #   name_index += 1
   end
 end
 
