@@ -28,7 +28,7 @@ def list_of_directors(source)
   # Write this implementation
   name_index = 0
   while name_index < source.length do
-    
+    source[:name]
     name_index += 1
   end
 end
