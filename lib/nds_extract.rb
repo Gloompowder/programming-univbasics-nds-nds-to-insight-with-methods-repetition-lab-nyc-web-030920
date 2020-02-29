@@ -26,7 +26,6 @@ end
 
 def list_of_directors(source)
   # Write this implementation
-  pp source
   # name_index = 0
   # while name_index < source.length do
     
