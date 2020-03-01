@@ -53,6 +53,7 @@ def total_gross(source)
     total += directors_totals(source)[list_of_directors(source)[index]]
     index += 1
   end
+  total
 end
 
 
